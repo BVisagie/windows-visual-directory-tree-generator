@@ -2,7 +2,7 @@
 
 ## Description
 
-The `Visual Directory Tree Generator` is a Windows Batch Script (.bat) designed to create a visual representation of a directory tree structure. It scans the given directory and its subdirectories to list files and folders, skipping specified folders if needed.
+The `Windows Visual Directory Tree Generator` is a Windows Batch Script (.bat) designed to create a visual representation of a directory tree structure. It scans the given directory and its subdirectories to list files and folders, skipping specified folders if needed.
 
 ### Features
 
