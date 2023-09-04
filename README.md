@@ -50,7 +50,7 @@ The output file will have the following sections:
 2. **Directory Structure**: A tree-like structure representing the directory and subdirectories.
 
    ```
-   ├── apache-maven-3.9 
+   ├── apache-maven-3.9.3 
    │   ├── LICENSE 
    │   ├── NOTICE 
    │   ├── README.txt 
