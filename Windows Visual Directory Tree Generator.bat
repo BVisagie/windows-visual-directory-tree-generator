@@ -50,7 +50,7 @@ set "prefix=%~2"
 set /a folderCount+=1
 
 :: Process the current folder
-echo %prefix%%branch%%~n1 >> temp_output.txt
+echo %prefix%%branch%%~n1%~x1 >> temp_output.txt
 
 :: Update prefix for deeper levels
 set "newprefix=%prefix%%tab%"
