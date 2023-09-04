@@ -75,4 +75,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Thanks to all contributors who helped in testing and improving this script.
+- Special thanks to ChatGPT for helping with the script. ![ChatGPT Icon]([http://path-to-the-image.com/image.png](https://duckduckgo.com/i/c7ce9712.png)https://duckduckgo.com/i/c7ce9712.png)
+- Bernard Visagie
