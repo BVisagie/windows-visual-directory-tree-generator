@@ -26,7 +26,7 @@ The `Windows Visual Directory Tree Generator` is a Windows Batch Script (.bat) d
 4. **Enter Folders to Exclude**: Next, you will be asked to provide a comma-separated list of folder names to exclude from the scan (no spaces between commas and folder names).
 
    ```bash
-   Enter comma-separated folder names to exclude (no spaces): folder1,folder2
+   (Optional) Enter comma-separated folder names to exclude (no spaces): folder1,folder2
    ```
 
 5. **Check the Output**: Once the script finishes running, it will create a file called `visual_directory_structure.txt` in the same directory where the script is located. This file contains the directory structure and summary details.
