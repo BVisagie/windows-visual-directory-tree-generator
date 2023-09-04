@@ -20,7 +20,7 @@ The `Windows Visual Directory Tree Generator` is a Windows Batch Script (.bat) d
 3. **Enter the Directory**: You will be prompted to enter the directory you would like to scan. Provide the absolute path of the directory.
 
    ```bash
-   Enter the directory you'd like to scan: C:\Users\YourUsername\Documents
+   Enter the directory you would like to scan: C:\Users\YourUsername\Documents
    ```
 
 4. **Enter Folders to Exclude**: Next, you will be asked to provide a comma-separated list of folder names to exclude from the scan (no spaces between commas and folder names).
