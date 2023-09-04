@@ -79,4 +79,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- 🛠️ Special thanks to ChatGPT for helping with the script.
+- 🛠️ Special thanks to ChatGPT for helping with the script. :smiley:
