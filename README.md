@@ -13,7 +13,7 @@ The `Windows Visual Directory Tree Generator` is a Windows Batch Script (.bat) d
 
 ## How to Use
 
-1. **Download the Script**: Download the `your_script_name.bat` script and place it in any directory.
+1. **Download the Script**: Download the `Windows Visual Directory Tree Generator.bat` script and place it in any directory.
 
 2. **Run the Script**: Double-click the .bat file to run it, or run it from the command prompt.
 
