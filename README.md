@@ -73,7 +73,10 @@ The output file will have the following sections:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Author
+
+* Bernard Visagie
+
 ## Acknowledgments
 
 - 🛠️ Special thanks to ChatGPT for helping with the script.
-- Bernard Visagie
