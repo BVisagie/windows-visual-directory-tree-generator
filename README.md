@@ -39,7 +39,7 @@ The output file will have the following sections:
 
    ```
    ==========================================================
-   Visual Directory Tree Generator
+   Windows Visual Directory Tree Generator
    ==========================================================
    Directory structure generated on Fri 09/04/2023 10:00:00.00
    Total number of folders: 10
